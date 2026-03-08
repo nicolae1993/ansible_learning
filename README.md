@@ -40,3 +40,10 @@ cat ~/.gitconfig
 
 git remote set-url origin git@github.com:nicolae1993/ansible_learning.git
 git push origin main
+
+
+First command
+
+<img width="1342" height="381" alt="image" src="https://github.com/user-attachments/assets/0a01b9b6-150d-451d-aed4-e70975d0e878" />
+
+
