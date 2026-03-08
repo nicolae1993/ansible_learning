@@ -10,3 +10,9 @@ ansible all -m gather_facts --limit 172.31.44.126
 
 
 
+ansible all -m apt -a update_cache=true --become --ask-become-pass
+<img width="1413" height="470" alt="image" src="https://github.com/user-attachments/assets/13e47f3b-94b1-44bf-9b40-d96d81c80b6e" />
+
+
+
+
