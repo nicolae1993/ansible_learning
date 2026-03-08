@@ -1,0 +1,3 @@
+ansible all --list-hosts
+
+
