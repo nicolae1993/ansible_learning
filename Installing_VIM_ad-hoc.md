@@ -14,3 +14,6 @@ When is already installed:
 
 
 
+In /var/log/apt on Slave server we can see the package was installed
+
+<img width="1916" height="417" alt="image" src="https://github.com/user-attachments/assets/5cf73321-7e4e-4c5d-b0a3-8403ba406ee4" />
