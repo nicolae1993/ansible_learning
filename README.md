@@ -1,6 +1,6 @@
 
 
-This is my awesome Ansible repository!
+
 Create 3 EC2 instances in AWS 
 workstation Ansible server 
 the other two (srv1 & srv2) are for provisioning from workstion
