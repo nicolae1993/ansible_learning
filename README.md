@@ -48,3 +48,16 @@ ansible all --key-file ~/.ssh/id_ed25519 -i inventory -m ping
 <img width="1342" height="381" alt="image" src="https://github.com/user-attachments/assets/0a01b9b6-150d-451d-aed4-e70975d0e878" />
 
 
+
+After declaring this 
+
+<img width="818" height="103" alt="image" src="https://github.com/user-attachments/assets/2aeb3a70-4eaa-4541-9adb-cae9f7802954" />
+
+We can use directly the command 
+ansible all -m ping
+
+<img width="792" height="384" alt="image" src="https://github.com/user-attachments/assets/eec7ab3f-d7e6-4112-bc38-d085f2f562f4" />
+
+
+
+
