@@ -8,3 +8,7 @@ and the apache is installed
 
 <img width="1180" height="381" alt="image" src="https://github.com/user-attachments/assets/e1b6a90d-3f87-474e-b54b-5141deb52ce5" />
 
+
+<img width="1015" height="384" alt="image" src="https://github.com/user-attachments/assets/432ec952-742f-4817-a266-4c16dbdf43a9" />
+
+
