@@ -8,3 +8,9 @@ SLAVE SERVER
 <img width="1195" height="392" alt="image" src="https://github.com/user-attachments/assets/9947290a-6a49-49b8-8b80-220b4c5ac5b0" />
 
 
+When is already installed:
+
+<img width="1446" height="471" alt="image" src="https://github.com/user-attachments/assets/964e65e9-49da-4387-99f6-c8fafc2b92a3" />
+
+
+
