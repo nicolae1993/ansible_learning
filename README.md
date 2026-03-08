@@ -6,10 +6,12 @@ On the Ansible Server Workstation Generate  public+privare key
 ssh-keygen -t ed25519
 
 Present here after generation of files /home/ubuntu/.ssh
+id_ed25519 and  id_ed25519.pub
 <img width="787" height="97" alt="image" src="https://github.com/user-attachments/assets/3e9d8d48-b83e-4973-83a7-b142da1dfa5b" />
 
 
-Copy the public key /home/user/.ssh/authorized_keys
+Copy the public key into the "Slave Ansible Machines" /home/user/.ssh/authorized_keys 
+so we can do ssh without password
 <img width="385" height="42" alt="image" src="https://github.com/user-attachments/assets/e4235df6-000f-4907-ad16-af73e574a7bd" />
 
 
