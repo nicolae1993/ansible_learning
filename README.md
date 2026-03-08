@@ -1,9 +1,9 @@
 
 
 
-Create 3 EC2 instances in AWS 
-workstation Ansible server 
-the other two (srv1 & srv2) are for provisioning from workstion
+Create 3 EC2 instances in AWS. 
+workstation Ansible server.
+the other two (srv1 & srv2) are for provisioning from workstion.
 
 <img width="426" height="141" alt="image" src="https://github.com/user-attachments/assets/b2c909c2-e33a-48cc-9829-71598601f898" />
 
