@@ -22,7 +22,9 @@ so we can do ssh without password
 
 
 
-Copy public key in Github Settings -- SSH and GPG keys at SSH keys
+Copy public key from Ansible Master Server into Github Settings -- SSH and GPG keys at SSH keys
+<img width="1444" height="448" alt="image" src="https://github.com/user-attachments/assets/2aab2fcc-23af-437a-9069-a2abfa9dde22" />
+
 
 
 Download on the Ansible server the github
