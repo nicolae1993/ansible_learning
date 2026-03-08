@@ -15,4 +15,8 @@ and the apache is installed
 <img width="1254" height="550" alt="image" src="https://github.com/user-attachments/assets/b3b49c72-ff89-4ca9-96a9-0cf215f7faf1" />
 
 
+<img width="1405" height="529" alt="image" src="https://github.com/user-attachments/assets/08b66a7a-5193-4809-9b77-1a5aa9a2a770" />
+
+
+
 
