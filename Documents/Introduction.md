@@ -3,9 +3,10 @@
 
 Create 3 EC2 instances in AWS. 
 workstation Ansible server.
-the other two (srv1 & srv2) are for provisioning from workstion.
+the other three  (srv1 & srv2 & srv3) are for provisioning from workstion.
 
-<img width="426" height="141" alt="image" src="https://github.com/user-attachments/assets/b2c909c2-e33a-48cc-9829-71598601f898" />
+<img width="1267" height="223" alt="image" src="https://github.com/user-attachments/assets/9ed5e3f2-bd08-4cb2-b6ee-4bcc3d45827b" />
+
 
 
 On the Ansible Server Workstation Generate  public+privare key
