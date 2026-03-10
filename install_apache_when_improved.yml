@@ -4,7 +4,7 @@
   become: true
   tasks:
 
-    - name: install apache2 package (Ubuntu)
+    - name: install apache2 package and modulul de php pentru Apache libapache2-mod-php (Ubuntu)
       apt:
         name:
           - apache2
