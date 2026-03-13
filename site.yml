@@ -36,3 +36,21 @@
           - php
         state: latest
       when: ansible_distribution == "RedHat"
+
+- hosts: db_servers
+  become: true
+  tasks:
+
+  - name: install mariadb package (Redhat)
+    dnf:
+      name: mariadb
+      state: latest
+    when: ansible_distribution == "Redhat"
+
+
+  - name: install mariadb package (Ubuntu)
+    apt:
+      name: mariadb-server
+      state: latest
+    when: ansible_distribution == "Ubuntu" 
+    
