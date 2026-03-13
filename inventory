@@ -7,3 +7,8 @@
 
 [file_servers]
 172.31.42.76 ansible_user=ec2-user
+
+[workstations]
+172.31.44.126
+172.31.44.135
+172.31.42.76 ansible_user=ec2-user
