@@ -1,13 +1,27 @@
 
+# AWS EC2 Provisioning with Ansible
 
-This project demonstrates the use of Ansible for provisioning and managing multiple AWS EC2 instances. The environment consists of four EC2 instances:
+This project demonstrates the use of **Ansible** for provisioning and managing multiple **AWS EC2 instances**.
 
-workstation_ubuntu – acts as the control node with Ansible installed.
+## Environment Setup
 
-srv1, srv2, srv3 – serve as managed nodes for provisioning tasks.
+The project environment consists of **four EC2 instances**:
 
-The playbooks are designed to automate system updates, package installations, and role-based configurations across all instances. This setup provides a scalable and repeatable infrastructure management workflow on AWS. 
+- **workstation_ubuntu** – Control node with Ansible installed.
+- **srv1, srv2, srv3** – Managed nodes for provisioning tasks.
 
+## Features
+
+- Automated **system updates** on all nodes
+- **Package installation** and management
+- **Role-based configurations** for modular and reusable playbooks
+- Scalable and repeatable **infrastructure management** workflow
+
+## Usage
+
+1. Connect to the control node (`workstation_ubuntu`).
+2. Run the Ansible playbooks to configure all managed nodes.
+3. Roles can be customized or extended for additional tasks.
 
 <img width="1267" height="223" alt="image" src="https://github.com/user-attachments/assets/9ed5e3f2-bd08-4cb2-b6ee-4bcc3d45827b" />
 
