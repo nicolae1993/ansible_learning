@@ -30,16 +30,18 @@ The structure of project:
 ```bash
 ├── Documents
 │   ├── Ansible_Commands.md
-│   ├── Installing_VIM_ad-hoc.md
-│   ├── Introduction.md
+│   ├── ManageServices.md
 │   ├── ManagingFiles.md
-│   ├── Playbook.md
+│   ├── PlaybookApache.md
 │   ├── PlaybookMariaDB.md
+│   ├── PlaybookRoles.md
 │   ├── PlaybookWHENConditon.md
 │   ├── Playbook_Improved.md
 │   ├── Playbook_tags.md
-│   └── TargetingNodes.md
-├── Playbook_variable.md
+│   ├── Playbook_variable.md
+│   ├── README.md
+│   ├── TargetingNodes.md
+│   └── Vim_adhoc.md
 ├── ansible.cfg
 ├── files
 │   └── default_site.html
@@ -51,7 +53,25 @@ The structure of project:
 ├── inventory_v1
 ├── inventory_v2
 ├── remove_apache.yml
+├── roles
+│   ├── base
+│   │   └── tasks
+│   ├── db_servers
+│   │   ├── main.yml
+│   │   └── tasks
+│   ├── file_servers
+│   │   ├── main.yml
+│   │   └── tasks
+│   ├── web_servers
+│   │   ├── files
+│   │   │   └── default_site.html
+│   │   ├── main.yml
+│   │   └── tasks
+│   └── workstations
+│       └── tasks
+│           └── main.yml
 ├── site.yml
+├── site_roles.yml
 ├── site_services.yml
 ├── site_v2.yml
 ├── site_v3.yml
