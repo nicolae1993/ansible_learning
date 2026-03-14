@@ -13,7 +13,7 @@ changed: [172.31.42.76]
 
 site_services.yml
 
-
+```yaml
    - name: start httpd (Centos)
       tags: apache,redhat,httpd
       service:
@@ -29,3 +29,4 @@ site_services.yml
        owner: root
        group: root
        mode: 06
+```
