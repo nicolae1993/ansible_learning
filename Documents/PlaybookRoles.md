@@ -1,3 +1,25 @@
+```
+├── roles
+│   ├── base
+│   │   └── tasks
+│   ├── db_servers
+│   │   ├── main.yml
+│   │   └── tasks
+│   ├── file_servers
+│   │   ├── main.yml
+│   │   └── tasks
+│   ├── web_servers
+│   │   ├── files
+│   │   │   └── default_site.html
+│   │   ├── main.yml
+│   │   └── tasks
+│   └── workstations
+│       └── tasks
+│           └── main.yml
+├── site.yml
+├── site_roles.yml
+```
+
 ```bash
 ansible-playbook site_roles.yml 
 
