@@ -1,3 +1,4 @@
+Structure of project after adding roles
 ```
 ├── roles
 │   ├── base
@@ -16,7 +17,7 @@
 │   └── workstations
 │       └── tasks
 │           └── main.yml
-├── site.yml
+
 ├── site_roles.yml
 ```
 
