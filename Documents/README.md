@@ -1,11 +1,13 @@
 
 
 
-Create 3 EC2 instances in AWS. 
+``` This project demonstrates the use of Ansible for provisioning and managing multiple AWS EC2 instances. The environment consists of four EC2 instances:
 
-workstation Ansible server.
+workstation_ubuntu – acts as the control node with Ansible installed.
 
-the other three  (srv1 & srv2 & srv3) are for provisioning from workstion.
+srv1, srv2, srv3 – serve as managed nodes for provisioning tasks.
+
+The playbooks are designed to automate system updates, package installations, and role-based configurations across all instances. This setup provides a scalable and repeatable infrastructure management workflow on AWS. ```
 
 
 <img width="1267" height="223" alt="image" src="https://github.com/user-attachments/assets/9ed5e3f2-bd08-4cb2-b6ee-4bcc3d45827b" />
