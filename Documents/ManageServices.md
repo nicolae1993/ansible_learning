@@ -1,4 +1,4 @@
-
+```bash
 ansible-playbook --ask-become-pass site_services.yml
 
 TASK [start httpd (Centos)] *************************************************************************************************************************
@@ -8,7 +8,7 @@ skipping: [172.31.44.126]
 skipping: [172.31.44.135]
 
 changed: [172.31.42.76]
-
+```
 
 
 site_services.yml
