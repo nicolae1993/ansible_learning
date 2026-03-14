@@ -62,10 +62,10 @@
       when: ansible_distribution == "RedHat"
 
     - name: start httpd (Centos)
-    - tags: apache,redhat,httpd
-       service:
-         name: httpd
-         state: started
+      tags: apache,redhat,httpd
+      service:
+          name: httpd
+          state: started
       when: ansible_distribution == "RedHat"
 
     - name: copy default html file for site
